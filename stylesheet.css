@@ -102,7 +102,7 @@ header{
 .news{
   position: absolute;
   left:40px;
-  bottom:40px;
+  top:550px;
   width:500px;
   background-color: rgba(0, 0, 0, 0.5);
   height:150px;
